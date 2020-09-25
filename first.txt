@@ -3,3 +3,4 @@ practice git
 .git add
 .gi commit
 .git add
+.git remove
