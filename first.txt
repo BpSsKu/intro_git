@@ -5,3 +5,4 @@ practice git
 .git add
 .git remove
 .git status
+.git diff
