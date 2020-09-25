@@ -4,3 +4,4 @@ practice git
 .gi commit
 .git add
 .git remove
+.git status
